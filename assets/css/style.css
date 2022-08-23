@@ -139,7 +139,7 @@ header nav ul li a:link, a:visited, a:active{
     font-family: 'Roboto', sans-serif;
     text-align: center;
     display: inline-block;
-    background-color: rgba(229, 229, 229, 0.918);
+    background-image: linear-gradient(to left, rgb(214, 214, 214) , rgb(139, 139, 139));
     width: 300px; /* ancho */
     height: 150px; /* alto */ 
     border: 1px solid grey;
@@ -150,7 +150,7 @@ header nav ul li a:link, a:visited, a:active{
     text-align: center;
     font-style: italic;
     display: inline-block;
-    background-color: rgba(229, 229, 229, 0.918);
+    background-image: linear-gradient(to top, rgb(249, 249, 249) , rgb(171, 171, 171));
     width: 300px; /* ancho */
     height: 150px; /* alto */ 
     border: 1px solid grey; 
@@ -187,7 +187,7 @@ header nav ul li a:link, a:visited, a:active{
 
 .parrafoModelos{
     font-family: peugeot;
-    background-color: rgb(233, 233, 233);
+    background-image: linear-gradient(rgb(83, 83, 83), rgb(215, 215, 215));
     padding-left: 70px;
     padding-right: 65px;
     margin-top: 5px;
@@ -198,7 +198,7 @@ header nav ul li a:link, a:visited, a:active{
 
 .parrafoArgentina{
     font-family: peugeot;
-    background-color: rgb(233, 233, 233);
+    background-image: linear-gradient(to right, rgb(116, 116, 116) , rgb(255, 255, 255));
     padding-left: 70px;
     padding-right: 65px;
     margin-top: 5px;
@@ -208,7 +208,7 @@ header nav ul li a:link, a:visited, a:active{
 
 .equipamiento{
     font-family: peugeot;
-    background-color: rgb(233, 233, 233);
+    background-image: linear-gradient(to bottom, rgb(213, 213, 213) , rgb(96, 96, 96));
     padding-left: 80px;
     padding-right: 65px;
     margin-top: 5px;
